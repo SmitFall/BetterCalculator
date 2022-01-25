@@ -12,8 +12,8 @@ Module BetterCalculator
     Sub Main()
 
         Dim userRespone As String
-        'Dim firstNumber As Integer
-        'Dim secondNumber As Integer
+        Dim firstNumber As Integer
+        Dim secondNumber As Integer
         Dim booleanSwitch As Boolean = True
 
         Do While booleanSwitch = True
